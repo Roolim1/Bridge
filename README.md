@@ -39,6 +39,6 @@ Bridge is a cross-platform file sharing app built with Flutter — designed for 
    sudo apt-get install libayatana-appindicator3-dev
    sudo ufw allow 5353/udp
 
-2. Then, go to the Releases section. Download the .deb package and install.
+2. Then, go to the [Releases](../../releases). Download the .deb package and install.
 
    Thank You.
