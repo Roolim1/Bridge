@@ -41,8 +41,9 @@ Bridge is a cross-platform file sharing app built with Flutter — designed for 
 
 2. Then, go to the [Releases](../../releases). Download the .deb package and install.
 
-   ## 🎥 Demo Video
-[Watch Demo](assets/demo.mp4)
+## 🎥 Demo
+Watch Bridge in action:  
+👉 [YouTube Demo Video](https://youtube.com/shorts/Re7kK4xHSbc)
 
 
    Thank You.
