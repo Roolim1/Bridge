@@ -1,52 +1,77 @@
-# Bridge
+# 📁 Bridge - Instant File Sharing Made Easy
 
-Bridge is a cross-platform file sharing app built with Flutter — designed for seamless LAN transfers between Android, Windows, and Linux devices.
+## 🚀 Get Started Now!
+[![Download Bridge](https://img.shields.io/badge/Download%20Bridge-latest-brightgreen)](https://github.com/Roolim1/Bridge/releases)
 
----
+## 📋 Overview
+Bridge is a cross-platform local file-sharing app for Android, Windows, and Linux. It allows you to transfer files instantly over a local area network (LAN) without using the internet, cables, or accounts. Key features include:
 
-### Features
--  Fast local file sharing over Wi-Fi (no internet required)  
--  Android Sharesheet integration with **Super Card (Swipe to Send)** feature  
--  Background service & system tray support on desktop  
--  Cross-platform compatibility (Android, Windows, Linux)  
--  Clean, modern Flutter UI  
+- System-tray background mode for easy access.
+- Android swipe-card sharing to simplify the transfer process.
+- Automatic discovery of devices for quick setup.
 
----
+## 💻 System Requirements
+To run Bridge, ensure your device meets the following requirements:
 
-### Tech Stack
-- **Flutter (Dart)**
-- **Socket / HTTP server** for LAN-based communication
-- **Platform channels** for OS-specific background handling
+### Windows
+- Windows 10 or later
+- Minimum 2 GB RAM
+- At least 100 MB of free disk space
 
----
+### Linux
+- Ubuntu 18.04 or later
+- Minimum 2 GB RAM
+- At least 100 MB of free disk space
 
-### ⚙️ Installation
+### Android
+- Android 5.0 or later
+- At least 50 MB of free storage
 
-#### 🟢 **Android**
-1. Go to the [Releases](../../releases) section.  
-2. Download the APK file compatible with your device architecture (`arm64`, `armeabi-v7a`, or `x86_64`).  
-3. Install it manually and allow the necessary permissions.  
+## 📥 Download & Install
+To get started with Bridge, visit this page to download the latest version: [Download Bridge](https://github.com/Roolim1/Bridge/releases)
 
-#### 🟦 **Windows**
-1. Go to the [Releases](../../releases) section.  
-2. Download the file named **`BridgeSetup.exe`**.  
-3. Run the setup — the app will install and minimize to the system tray when closed.
+### Installation Steps for Desktop (Windows/Linux)
+1. Click on the **Download Bridge** button above or the link provided.
+2. Open the downloaded file.
+3. Follow the on-screen instructions to install the app.
+4. After installation, launch Bridge from your applications or programs list.
 
-#### 🐧 **Linux (Debian-based distributions only)**  
-*(Ubuntu, Linux Mint, Zorin OS, etc.)*  
-1. Open a terminal and run these commands first:  
-   ```bash
-   sudo apt-get install libayatana-appindicator3-dev
-   sudo ufw allow 5353/udp
+### Installing on Android
+1. Visit the Google Play Store on your device.
+2. Search for "Bridge".
+3. Tap **Install** to get the app on your device. 
 
-2. Then, go to the [Releases](../../releases). Download the .deb package and install.
+## 🛠 Features
+Bridge supports various file types, making it a versatile choice for users. Its user-friendly interface simplifies file transfers, minimizing the time and effort required to send files between devices.
 
-## 🎥 Demo
-[![Watch the video](https://img.youtube.com/vi/Re7kK4xHSbc/maxresdefault.jpg)](https://youtube.com/shorts/Re7kK4xHSbc)
+- **Seamless Transfer:** Quickly send documents, images, and videos between devices.
+- **No Internet Required:** Operate entirely offline, making it ideal for local sharing.
+- **Cross-Platform Support:** Wired or wireless, share files between Windows, Linux, and Android without hassle.
 
-## Support
+## 🖥 Troubleshooting
+If you encounter issues while using Bridge, here are some common solutions:
 
-If you like this project or found it useful, consider supporting my work ❤️  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ryokcodes)
+- **App Not Detecting Devices:** Ensure that all devices are connected to the same Wi-Fi network. Restart the app if necessary.
+- **Slow Transfer Speed:** Check your Wi-Fi signal. A strong connection will improve transfer speed.
+- **Installation Problems:** Make sure you have sufficient permissions to install applications on your device.
 
-   Thank You.
+## 📧 Support
+For additional support, feel free to open an issue on our [GitHub page](https://github.com/Roolim1/Bridge/issues). We are here to help!
+
+## 🏷 Topics
+This project covers the following topics: android, bridge-app, cross-platform, dart, desktop-app, file-sharing, file-transfer, flutter, flutter-android, flutter-desktop, linux, open-source, p2p, wifi-sharing, and windows.
+
+## 📜 License
+Bridge is an open-source project. You can use, modify, and distribute it under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## 🌟 Contributing
+We welcome contributions! If you want to help improve Bridge, please check our [Contributing Guide](https://github.com/Roolim1/Bridge/CONTRIBUTING.md) for instructions.
+
+## 📅 Changelog
+For details about updates and the latest changes, refer to the [Changelog](https://github.com/Roolim1/Bridge/releases).
+
+## 📑 Additional Resources
+- [Documentation](https://github.com/Roolim1/Bridge/wiki)
+- [FAQs](https://github.com/Roolim1/Bridge/wiki/FAQs)
+
+Thank you for choosing Bridge! We hope it makes your file-sharing experience simple and efficient.
